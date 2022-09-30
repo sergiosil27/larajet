@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1490" height="600" viewBox="200 408.5 1490 600">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: #0b7ab3;
+      }
+
+      .cls-1 {
+        stroke: #0b7ab3;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #eb2020;
+        stroke: #eb2020;
+      }
+
+      .cls-3 {
+        font-size: 216.667px;
+        font-family: Impact;
+      }
+
+      .cls-4 {
+        font-size: 229.167px;
+        fill: #d52c18;
+        font-family: "Century Gothic";
+      }
+
+      .cls-5 {
+        font-size: 43.75px;
+        font-family: "Argentum Sans";
+      }
+    </style>
+  </defs>
+  <path id="Elipse_2" data-name="Elipse 2" class="cls-1" d="M959,601c391.29,0,622,72.661,684,108-216-30.615-306.71-57-698-57s-607,46.511-693,62.5C300,680.524,567.706,601,959,601Z"/>
+  <path id="Elipse_1" data-name="Elipse 1" class="cls-2" d="M806.644,535.572a28.5,28.5,0,1,1-28.5,28.5A28.5,28.5,0,0,1,806.644,535.572ZM920,458a67,67,0,1,1-67,67A67,67,0,0,1,920,458Zm114.5,43A45.5,45.5,0,1,1,989,546.5,45.5,45.5,0,0,1,1034.5,501Zm84.71,43A22.215,22.215,0,1,1,1097,566.214,22.218,22.218,0,0,1,1119.21,544Z"/>
+  <text id="IPS" class="cls-3" x="281.223" y="893.445">IPS</text>
+  <text id="BIOSALUD" class="cls-4" x="597.437" y="890.586">BIOSALUD</text>
+  <text id="T_u_s_a_l_u_d_c_o_n_r_e_s_p_o_n_s_a_b_i_l_i_d_a_d" data-name="T u  s a l u d  c o n  r e s p o n s a b i l i d a d" class="cls-5" x="609" y="936.284">T u  s a l u d  c o n  r e s p o n s a b i l i d a d</text>
+</svg>
